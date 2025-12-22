@@ -7,7 +7,7 @@
 
 - 👯 Também faço automações em Python com RPA **RPA**
 
-- 💬 Me pergunte sobre **Python, Excel, SQL, HTML**
+- 💬 Me pergunte sobre **Python e Excel**
 
 - 📫 Você me acha através do e-mail **dedemacedot@gmail.com**
 
