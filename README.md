@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
       alt="Excel" width="40" height="40" />
   </a>
 </p>
