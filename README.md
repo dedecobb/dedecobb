@@ -3,8 +3,6 @@
 
 - 🔭 Atualmente trabalho como **Analista de Estoque**, utilizando **automações avançadas em Python**
 
-- 🌱 Atualmente estou aprendendo **Data Science e Power BI**
-
 - 👯 Também faço automações em Python com RPA **RPA**
 
 - 💬 Me pergunte sobre **Python e Excel**
